@@ -1,4 +1,5 @@
 ### Hi there 👋
+<a href="https://profile.intra.42.fr/users/hsaktiwy"><img src="https://badge.mediaplus.ma/darkblue/hsaktiwy" alt="hsaktiwy's 42 stats" /></a>
 
 <!--
 **hsaktiwy/hsaktiwy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
