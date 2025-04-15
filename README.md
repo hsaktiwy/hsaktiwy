@@ -1,6 +1,5 @@
-# 💫 About Me:
-IP(Work in progress)...
-
+# 💫 About Me: hsaktiwy
+to Contact me: haktiwy@gmail.com
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/hamza2325) 
